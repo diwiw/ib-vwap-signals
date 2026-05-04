@@ -1,0 +1,10 @@
+# Python ignores
+venv/
+./venv/
+env/
+__pycache__/
+*.pyc
+
+# Local data / output ignores
+signals_output/
+*.csv

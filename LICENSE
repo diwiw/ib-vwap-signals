@@ -1,0 +1,22 @@
+PROPRIETARY LICENSE
+
+Copyright (c) 2026 Dawid Skrobol. All rights reserved.
+
+This software and associated documentation files (the "Software") are the proprietary property of Dawid Skrobol.
+
+1. PERMITTED USE
+You are granted a non-exclusive, non-transferable, limited license to view, download, and execute the Software strictly for personal, educational, and non-commercial evaluation purposes (Proof of Concept).
+
+2. COMMERCIAL USE RESTRICTIONS
+Any commercial use of this Software is STRICTLY PROHIBITED without prior, explicit written consent from the copyright holder. 
+"Commercial use" includes, but is not limited to:
+- Live trading or executing financial transactions with real capital.
+- Integration into proprietary trading funds, firms, or commercial software platforms (e.g., AI Trading Software GmbH, ATAS bridges).
+- Selling, sublicensing, or distributing copies of the Software.
+- Creating derivative works for profit.
+
+3. COMMERCIAL LICENSING
+To request commercial licensing, equity partnerships, or access to the production-grade C++ execution engine, please contact the author directly to negotiate a formal commercial agreement.
+
+4. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE, ESPECIALLY IN REGARD TO FINANCIAL LOSSES.
